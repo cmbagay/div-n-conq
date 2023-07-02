@@ -1,0 +1,13 @@
+{
+  "name": "prob-divide-conquer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "count-zeroes.js",
+  "type":"module",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
