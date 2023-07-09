@@ -2,7 +2,7 @@ function sortedFrequency(arr, num) {
   let freqArr = arr;
 
   //medianIdx
-  let medianIdx = Math.floor(7 / 2);
+  let medianIdx = Math.floor(arr.length / 2);
 
   if (freqArr[medianIdx] === 3) {
     while (freqArr[medianIdx - 1] === 3) {
